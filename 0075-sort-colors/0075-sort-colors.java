@@ -3,32 +3,30 @@ class Solution {
         int zero = 0;
         int one = 0;
         int two = 0;
-
-        for (int num : nums) {
-            if (num == 0) {
-                zero++;
-            } else if (num == 1) {
-                one++;
-            } else {
-                two++;
-            }
+        
+        for(int i=0;i<nums.length;i++){
+            if(nums[i] == 0)
+             zero ++;
+            else if(nums[i] == 1)
+             one ++;
+            else
+            two ++;
         }
-        int index = 0;
-        while (zero > 0) {
-            nums[index] = 0;
-            index++;
+        int j = 0;
+        while(zero!=0){
+            nums[j] = 0;
+            j++ ;
             zero--;
         }
-
-        while (one > 0) {
-            nums[index] = 1;
-            index++;
-            one--;
+        while(one!=0){
+            nums[j] = 1;
+            j++ ;
+            one -- ;
         }
-        while (two > 0) {
-            nums[index] = 2;
-            index++;
-            two--;
+        while(two!=0){
+            nums[j] = 2;
+            j++ ;
+            two -- ;
         }
     }
 }
