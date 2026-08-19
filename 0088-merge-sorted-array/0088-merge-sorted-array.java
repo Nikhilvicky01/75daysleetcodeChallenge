@@ -1,28 +1,33 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-        int i = m - 1;
-        int j = n - 1;
-        int k = m + n - 1;
+        int i = 0; // nums1 pointer
+        int j = 0; // nums2 pointer
+        int k = 0; // position to fill
 
-        while (i >= 0 && j >= 0) {
+        while (i < m && j < n) {
 
-            if (nums1[i] > nums2[j]) {
-                nums1[k] = nums1[i];
-                i--;
+            if (nums1[i] <= nums2[j]) {
+                i++;
             } else {
-                nums1[k] = nums2[j];
-                j--;
-            }
+                // Shift nums1 elements to the right
+                for (int x = m; x > i; x--) {
+                    nums1[x] = nums1[x - 1];
+                }
 
-            k--;
+                nums1[i] = nums2[j];
+
+                i++;
+                j++;
+                m++;
+            }
         }
 
-        // Copy remaining elements of nums2
-        while (j >= 0) {
-            nums1[k] = nums2[j];
-            j--;
-            k--;
+        // Copy remaining nums2 elements
+        while (j < n) {
+            nums1[m] = nums2[j];
+            j++;
+            m++;
         }
     }
 }
