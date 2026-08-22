@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0031-next-permutation) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
