@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
