@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0796-rotate-string) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
