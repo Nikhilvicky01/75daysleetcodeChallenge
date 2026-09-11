@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0242-valid-anagram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
