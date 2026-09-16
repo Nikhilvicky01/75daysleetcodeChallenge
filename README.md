@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3871-count-commas-in-range-ii) |
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0115-distinct-subsequences) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
