@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0443-string-compression](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0796-rotate-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1903-largest-odd-number-in-string) |
