@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -166,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
