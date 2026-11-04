@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
