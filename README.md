@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0136-single-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhilvicky01/75daysleetcodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
